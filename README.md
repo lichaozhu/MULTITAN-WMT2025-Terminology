@@ -1,6 +1,6 @@
 # MULTITAN-WMT2025-Terminology
 
-Lichao Zhu, Maria Zimina-Poirot, Stéphane Patin & Cristian Valdez
+Lichao Zhu, Maria Zimina-Poirot, Stéphane Patin & Cristian Valdez\
 ALTAE, University Paris Cité
 
 ## Training data augmentation by proper terminology
