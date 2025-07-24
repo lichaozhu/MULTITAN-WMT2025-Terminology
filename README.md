@@ -4,7 +4,10 @@ Lichao Zhu, Maria Zimina-Poirot, Stéphane Patin & Cristian Valdez\
 ALTAE, University Paris Cité
 
 ## Training data augmentation by proper terminology
-  1. "make" bigger by Sketch Engine
-  2. AI data augmentation with few shots prompting (or RAG)
+  1. Development set using the ELRC English–Spanish corpora
+  2. AI-driven data augmentation via few‑shot prompting
+  3. LoRA fine‑tuning of EuroLLM with integrated glossary prompting
+  4. Model Studio Lite fine‑tuning with glossary injection
 
-## Mind collocations and contextual variations of terms
+## Collocations and contextual variations of terms
+  Analysis 
